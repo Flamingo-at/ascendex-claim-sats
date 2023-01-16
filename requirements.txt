@@ -1,0 +1,2 @@
+cloudscraper==1.2.64
+loguru==0.6.0
